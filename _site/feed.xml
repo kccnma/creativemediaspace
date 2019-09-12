@@ -1,0 +1,892 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-09-11T15:12:40-10:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">CMS</title><subtitle>CreativeMedia.space is a learning space of helpful resources and curated lists of creative media related sites that are continually being updated. </subtitle><entry><title type="html">Intro To Adobe Xd</title><link href="http://localhost:4000/intro-to-adobe-xd/" rel="alternate" type="text/html" title="Intro To Adobe Xd" /><published>2019-06-28T00:00:00-10:00</published><updated>2019-06-28T00:00:00-10:00</updated><id>http://localhost:4000/intro-to-adobe-xd</id><content type="html" xml:base="http://localhost:4000/intro-to-adobe-xd/">&lt;!-- wp:heading {&quot;level&quot;:3} --&gt;
+&lt;h3&gt;An Interface Design Tool Designed for Web Designers&lt;/h3&gt;
+&lt;!-- /wp:heading --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;For years, web designers used Adobe Photoshop to design the user interfaces (UI) for websites. Over time, some designers starting using Illustrator and some started experimenting with non-Adobe alternatives. Ultimately, it doesn't matter what tool you use, but there are several advantages that some tools are able to provide that others can not. In this lesson, we are going to learn about &lt;a href=&quot;https://www.adobe.com/products/xd.html&quot;&gt;Adobe XD&lt;/a&gt;—Adobe's most recent tool specifically created for user interface designers.&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:heading {&quot;level&quot;:3} --&gt;
+&lt;h3&gt;A Brief History&lt;/h3&gt;
+&lt;!-- /wp:heading --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;Over the years, web designers have used several different tools and software developers have created several different design applications to help provided healthy alternatives to typical Adobe products (e.g. Photoshop and Illustrator) that were better suited for web design. One notable example is &lt;a href=&quot;https://www.sketch.com/&quot;&gt;Sketch App&lt;/a&gt;, which is one of the most popular and celebrated web design tools. Sketch was first released in 2010 and has since increased in adoption ever since. It took several years, but eventually Adobe released a product similar to Sketch: Adobe XD.&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:heading {&quot;level&quot;:3} --&gt;
+&lt;h3&gt;Key Features&lt;/h3&gt;
+&lt;!-- /wp:heading --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;Below is a list of key features that Adobe XD provides:&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:list --&gt;
+&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Speed&lt;/strong&gt; (performance) - unlike Photoshop and Illustrator, XD is super light, lean, and fast. It may not have all of the features of Photoshop and Illustrator, but it loads quickly and runs fast with little-to-no lag/latency.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Artboards&lt;/strong&gt; - at the core of XD are artboards, the rectangular canvases upon which designers can design interfaces. These artboards are designed for interfaces that can easily grow (e.g. vertically at the bottom, when more room for content is added).&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Vector and Raster&lt;/strong&gt; support - similar to Illustrator, it is vector-based but has support for raster images, much like the web.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Components/Assets/Libraries&lt;/strong&gt; - similar to InDesign, it has built-in support for things like components (previously named symbols), pre-defined colors, and text styles. These are setup in such a way that aligns well with the coding of websites.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Prototypes&lt;/strong&gt; - similar to Invision App, Adobe XD has built-in prototyping out-of-the-box. Simply connect artboards by dragging handle connectors. Protoypes also have built in scrolling support with customizable viewport heights.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;So much more!&lt;/strong&gt; - the above list is just scratching the surface of all that Adobe XD can do. It can be used for style guides, client documentation, presentations, sharing prototypes with support for commenting, shared assets and libraries, animation, and a lot more.&lt;/li&gt;&lt;/ul&gt;
+&lt;!-- /wp:list --&gt;
+
+&lt;!-- wp:separator --&gt;
+&lt;hr class=&quot;wp-block-separator&quot; /&gt;
+
+&lt;!-- /wp:separator --&gt;
+
+&lt;!-- wp:spacer --&gt;
+&lt;div style=&quot;height:100px&quot; aria-hidden=&quot;true&quot; class=&quot;wp-block-spacer&quot;&gt;&lt;/div&gt;
+&lt;!-- /wp:spacer --&gt;
+
+&lt;!-- wp:image {&quot;id&quot;:3107} --&gt;
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;http://egargiulo.com/cms/wp-content/uploads/2019/06/XD-HomePageComplete-Preview-1500x1007.png&quot; alt=&quot;Home Page designed in Adobe XD&quot; class=&quot;wp-image-3107&quot; /&gt;&lt;/figure&gt;
+&lt;!-- /wp:image --&gt;
+
+&lt;!-- wp:heading --&gt;
+&lt;h2&gt;Summer 2019 Hands-on Activity: Design a Simple Home Page&lt;/h2&gt;
+&lt;!-- /wp:heading --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;In this hands-on activity, follow the steps below to create a simple Home Page in Adobe XD. This exercise is designed for beginners with no prior design experience. The only requirement is that you must have Adobe XD installed and you must have an Adobe ID.&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:spacer --&gt;
+&lt;div style=&quot;height:100px&quot; aria-hidden=&quot;true&quot; class=&quot;wp-block-spacer&quot;&gt;&lt;/div&gt;
+&lt;!-- /wp:spacer --&gt;
+
+&lt;!-- wp:uagb/advanced-heading {&quot;block_id&quot;:&quot;a4c2acd5-7172-410e-a0b1-2cf347d36d69&quot;,&quot;className&quot;:&quot;step-heading&quot;} --&gt;
+&lt;div class=&quot;wp-block-uagb-advanced-heading step-heading&quot; id=&quot;uagb-adv-heading-a4c2acd5-7172-410e-a0b1-2cf347d36d69&quot;&gt;&lt;h2 class=&quot;uagb-heading-text&quot;&gt;Step&lt;/h2&gt;&lt;div class=&quot;uagb-separator-wrap&quot;&gt;&lt;div class=&quot;uagb-separator&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;p class=&quot;uagb-desc-text&quot;&gt;1&lt;/p&gt;&lt;/div&gt;
+&lt;!-- /wp:uagb/advanced-heading --&gt;
+
+&lt;!-- wp:heading {&quot;level&quot;:3} --&gt;
+&lt;h3&gt;Get Setup&lt;/h3&gt;
+&lt;!-- /wp:heading --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;Launch XD, then at the Welcome Screen, create a new &quot;Custom Size&quot; document that is  1600px wide and 1000px high. &lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:image {&quot;id&quot;:3108,&quot;linkDestination&quot;:&quot;media&quot;} --&gt;
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;a href=&quot;http://egargiulo.com/cms/wp-content/uploads/2019/06/XD-Welcome-1600x1000.png&quot;&gt;&lt;img src=&quot;http://egargiulo.com/cms/wp-content/uploads/2019/06/XD-Welcome-1600x1000.png&quot; alt=&quot;&quot; class=&quot;wp-image-3108&quot; /&gt;&lt;/a&gt;&lt;/figure&gt;
+&lt;!-- /wp:image --&gt;
+
+&lt;!-- wp:separator --&gt;
+&lt;hr class=&quot;wp-block-separator&quot; /&gt;
+
+&lt;!-- /wp:separator --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;First off, do a &quot;Save As&quot; and name it something like &quot;mysite.xd&quot; and be sure to save it in your personal folder (not your github.io website folder). &lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:separator --&gt;
+&lt;hr class=&quot;wp-block-separator&quot; /&gt;
+
+&lt;!-- /wp:separator --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;Next, in the upper left hand corner of the artboard, rename the artboard to &quot;Home&quot;&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:image {&quot;id&quot;:3095,&quot;linkDestination&quot;:&quot;media&quot;} --&gt;
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;a href=&quot;http://egargiulo.com/cms/wp-content/uploads/2019/06/XD-RenameArtboard.png&quot;&gt;&lt;img src=&quot;http://egargiulo.com/cms/wp-content/uploads/2019/06/XD-RenameArtboard.png&quot; alt=&quot;&quot; class=&quot;wp-image-3095&quot; /&gt;&lt;/a&gt;&lt;/figure&gt;
+&lt;!-- /wp:image --&gt;
+
+&lt;!-- wp:separator --&gt;
+&lt;hr class=&quot;wp-block-separator&quot; /&gt;
+
+&lt;!-- /wp:separator --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;Next, turn on your Grid, set it to 12 columns wide with 250px margins on each side. This grid layout setup will provide a centered &quot;container' area that is 1100px wide. &lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:image {&quot;id&quot;:3096,&quot;linkDestination&quot;:&quot;media&quot;} --&gt;
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;a href=&quot;http://egargiulo.com/cms/wp-content/uploads/2019/06/XD-Grid.png&quot;&gt;&lt;img src=&quot;http://egargiulo.com/cms/wp-content/uploads/2019/06/XD-Grid.png&quot; alt=&quot;&quot; class=&quot;wp-image-3096&quot; /&gt;&lt;/a&gt;&lt;/figure&gt;
+&lt;!-- /wp:image --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;&lt;em&gt;Tip: you can double-check that this is setup correctly by drawing a rectangle across the 12 columns and see if it is 1100px side.&lt;/em&gt;&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:spacer --&gt;
+&lt;div style=&quot;height:100px&quot; aria-hidden=&quot;true&quot; class=&quot;wp-block-spacer&quot;&gt;&lt;/div&gt;
+&lt;!-- /wp:spacer --&gt;
+
+&lt;!-- wp:uagb/advanced-heading {&quot;block_id&quot;:&quot;1ebc9cf0-3644-4679-992c-ccc102347e60&quot;,&quot;className&quot;:&quot;step-heading&quot;} --&gt;
+&lt;div class=&quot;wp-block-uagb-advanced-heading step-heading&quot; id=&quot;uagb-adv-heading-1ebc9cf0-3644-4679-992c-ccc102347e60&quot;&gt;&lt;h2 class=&quot;uagb-heading-text&quot;&gt;Step&lt;/h2&gt;&lt;div class=&quot;uagb-separator-wrap&quot;&gt;&lt;div class=&quot;uagb-separator&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;p class=&quot;uagb-desc-text&quot;&gt;2&lt;/p&gt;&lt;/div&gt;
+&lt;!-- /wp:uagb/advanced-heading --&gt;
+
+&lt;!-- wp:heading {&quot;level&quot;:3} --&gt;
+&lt;h3&gt;Header&lt;/h3&gt;
+&lt;!-- /wp:heading --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;Use the Rectangle tool to draw a 1600x100 header with a light grey (#cccccc) fill color at the top edge of the artboard. Make sure that the rectangle has no border. In the Layers panel on the left hand side, rename the layer to &quot;header bg&quot; by double-clicking on the layer name.&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:image {&quot;id&quot;:3097,&quot;linkDestination&quot;:&quot;media&quot;} --&gt;
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;a href=&quot;http://egargiulo.com/cms/wp-content/uploads/2019/06/XD-header.png&quot;&gt;&lt;img src=&quot;https://i0.wp.com/www.creativemedia.space/wp-content/uploads/2019/06/XD-header.png?fit=1500%2C844&amp;amp;ssl=1&quot; alt=&quot;&quot; class=&quot;wp-image-3097&quot; /&gt;&lt;/a&gt;&lt;/figure&gt;
+&lt;!-- /wp:image --&gt;
+
+&lt;!-- wp:separator --&gt;
+&lt;hr class=&quot;wp-block-separator&quot; /&gt;
+
+&lt;!-- /wp:separator --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;Add Site Name (aka Site Identity, Logo, etc.) - use the text tool to write the name of the site in the top left hand corner of the interface inside of the header section. Zoom in and out via &quot;command +&quot; and &quot;command -&quot;. Font: Arial 24px Bold. &lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:image {&quot;id&quot;:3099,&quot;linkDestination&quot;:&quot;media&quot;} --&gt;
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;a href=&quot;http://egargiulo.com/cms/wp-content/uploads/2019/06/XD-Sitename-Initial.png&quot;&gt;&lt;img src=&quot;http://egargiulo.com/cms/wp-content/uploads/2019/06/XD-Sitename-Initial.png&quot; alt=&quot;&quot; class=&quot;wp-image-3099&quot; /&gt;&lt;/a&gt;&lt;/figure&gt;
+&lt;!-- /wp:image --&gt;
+
+&lt;!-- wp:separator --&gt;
+&lt;hr class=&quot;wp-block-separator&quot; /&gt;
+
+&lt;!-- /wp:separator --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;Add Site Navigation (aka main nav, top nav, etc.) - create a main top nav by either using the text tool, or copy-pasting the site name (Command-C, Command-V), or by duplicating the site name (alt-click + drag) and place it on the top right corner inside of the header. Font: 18px Arial Regular. Set the text say &quot;Blog&quot; because this is going to be the blog page. Then repeat this step by either copy-pasting or duplicating (alt-click + drag) the &quot;Blog&quot; text to create the next two nav items: &quot;About&quot; and &quot;Home&quot;&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:image {&quot;id&quot;:3100,&quot;linkDestination&quot;:&quot;media&quot;} --&gt;
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;a href=&quot;http://egargiulo.com/cms/wp-content/uploads/2019/06/XD-Sitenav.png&quot;&gt;&lt;img src=&quot;http://egargiulo.com/cms/wp-content/uploads/2019/06/XD-Sitenav.png&quot; alt=&quot;&quot; class=&quot;wp-image-3100&quot; /&gt;&lt;/a&gt;&lt;/figure&gt;
+&lt;!-- /wp:image --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;Create a header group (folder) by selecting both the header bg layer and the site name text layer then right-clicking and choosing &quot;Group&quot; (or pressing &quot;command G&quot;). Rename the layer to &quot;header&quot;&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:spacer --&gt;
+&lt;div style=&quot;height:100px&quot; aria-hidden=&quot;true&quot; class=&quot;wp-block-spacer&quot;&gt;&lt;/div&gt;
+&lt;!-- /wp:spacer --&gt;
+
+&lt;!-- wp:uagb/advanced-heading {&quot;block_id&quot;:&quot;8b74b2dd-a6fa-4152-ac4b-571e6a7d56e1&quot;,&quot;className&quot;:&quot;step-heading&quot;} --&gt;
+&lt;div class=&quot;wp-block-uagb-advanced-heading step-heading&quot; id=&quot;uagb-adv-heading-8b74b2dd-a6fa-4152-ac4b-571e6a7d56e1&quot;&gt;&lt;h2 class=&quot;uagb-heading-text&quot;&gt;Step&lt;/h2&gt;&lt;div class=&quot;uagb-separator-wrap&quot;&gt;&lt;div class=&quot;uagb-separator&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;p class=&quot;uagb-desc-text&quot;&gt;3&lt;/p&gt;&lt;/div&gt;
+&lt;!-- /wp:uagb/advanced-heading --&gt;
+
+&lt;!-- wp:heading {&quot;level&quot;:3} --&gt;
+&lt;h3&gt;Hero Section&lt;/h3&gt;
+&lt;!-- /wp:heading --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;Use the Rectangle tool to draw a 1600x500 hero section with a lighter grey (#eeeeee) rectangle just below the header. In the layers panel, rename it &quot;hero bg&quot; and move it below the header in the layer order.&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:image {&quot;id&quot;:3102,&quot;linkDestination&quot;:&quot;media&quot;} --&gt;
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;a href=&quot;http://egargiulo.com/cms/wp-content/uploads/2019/06/XD-Hero-bg-2.png&quot;&gt;&lt;img src=&quot;http://egargiulo.com/cms/wp-content/uploads/2019/06/XD-Hero-bg-2.png&quot; alt=&quot;&quot; class=&quot;wp-image-3102&quot; /&gt;&lt;/a&gt;&lt;/figure&gt;
+&lt;!-- /wp:image --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;Add Hero Text - use the text tool to write the words &quot;Summer 2019&quot; inside of the hero section. Arial 100px Bold. Be sure to center align the text. Immediately below it, place a sub-heading/by-line/sub-header txt block with a short description like, &quot;A website I created while learning web design at Iolani.&quot; Arial 21px bold. &lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:image {&quot;id&quot;:3103,&quot;linkDestination&quot;:&quot;media&quot;} --&gt;
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;a href=&quot;http://egargiulo.com/cms/wp-content/uploads/2019/06/XD-Hero-text.png&quot;&gt;&lt;img src=&quot;http://egargiulo.com/cms/wp-content/uploads/2019/06/XD-Hero-text.png&quot; alt=&quot;&quot; class=&quot;wp-image-3103&quot; /&gt;&lt;/a&gt;&lt;/figure&gt;
+&lt;!-- /wp:image --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;Be sure to create a hero group (folder) by selecting the hero bg layer and both hero text layers then right-clicking and choosing &quot;Group&quot; (or pressing &quot;command G&quot;). Rename the layer to &quot;hero&quot; and move it below the header group.&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:spacer --&gt;
+&lt;div style=&quot;height:100px&quot; aria-hidden=&quot;true&quot; class=&quot;wp-block-spacer&quot;&gt;&lt;/div&gt;
+&lt;!-- /wp:spacer --&gt;
+
+&lt;!-- wp:uagb/advanced-heading {&quot;block_id&quot;:&quot;11937f15-722f-41b8-8f2d-1b1de4d34f77&quot;,&quot;className&quot;:&quot;step-heading&quot;} --&gt;
+&lt;div class=&quot;wp-block-uagb-advanced-heading step-heading&quot; id=&quot;uagb-adv-heading-11937f15-722f-41b8-8f2d-1b1de4d34f77&quot;&gt;&lt;h2 class=&quot;uagb-heading-text&quot;&gt;Step&lt;/h2&gt;&lt;div class=&quot;uagb-separator-wrap&quot;&gt;&lt;div class=&quot;uagb-separator&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;p class=&quot;uagb-desc-text&quot;&gt;4&lt;/p&gt;&lt;/div&gt;
+&lt;!-- /wp:uagb/advanced-heading --&gt;
+
+&lt;!-- wp:heading {&quot;level&quot;:3} --&gt;
+&lt;h3&gt;Main Section: Lists&lt;/h3&gt;
+&lt;!-- /wp:heading --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;Use the text tool to create three sets of lists, each one containing a category Header (Arial 18px Bold), a category short description (Arial 16px Regular), and three list items (Arial 16px Regular). Draw a small black circle for the list bullets then repeat each list item by either copy-pasting or duplicating (alt-click + drag) each line item. &lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:image {&quot;id&quot;:3104,&quot;linkDestination&quot;:&quot;media&quot;} --&gt;
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;a href=&quot;http://egargiulo.com/cms/wp-content/uploads/2019/06/XD-List-1.png&quot;&gt;&lt;img src=&quot;http://egargiulo.com/cms/wp-content/uploads/2019/06/XD-List-1.png&quot; alt=&quot;&quot; class=&quot;wp-image-3104&quot; /&gt;&lt;/a&gt;&lt;/figure&gt;
+&lt;!-- /wp:image --&gt;
+
+&lt;!-- wp:separator --&gt;
+&lt;hr class=&quot;wp-block-separator&quot; /&gt;
+
+&lt;!-- /wp:separator --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;Once you have one list category set complete, repeat it 2 more times to create a three column layout by either copy-pasting or duplicating (alt-click + drag) each category list set. &lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:image {&quot;id&quot;:3105,&quot;linkDestination&quot;:&quot;media&quot;} --&gt;
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;a href=&quot;http://egargiulo.com/cms/wp-content/uploads/2019/06/XD-Lists-3.png&quot;&gt;&lt;img src=&quot;http://egargiulo.com/cms/wp-content/uploads/2019/06/XD-Lists-3.png&quot; alt=&quot;&quot; class=&quot;wp-image-3105&quot; /&gt;&lt;/a&gt;&lt;/figure&gt;
+&lt;!-- /wp:image --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;Be sure to create a parent &quot;lists&quot; group (folder) that contains three &quot;list&quot; sub-groups (sub folders) within it by selecting each set of lists and grouping them together and labelling them accordingly.&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:spacer --&gt;
+&lt;div style=&quot;height:100px&quot; aria-hidden=&quot;true&quot; class=&quot;wp-block-spacer&quot;&gt;&lt;/div&gt;
+&lt;!-- /wp:spacer --&gt;
+
+&lt;!-- wp:uagb/advanced-heading {&quot;block_id&quot;:&quot;c0f500ba-3fd9-455e-a3a6-ccd044f09588&quot;,&quot;className&quot;:&quot;step-heading&quot;} --&gt;
+&lt;div class=&quot;wp-block-uagb-advanced-heading step-heading&quot; id=&quot;uagb-adv-heading-c0f500ba-3fd9-455e-a3a6-ccd044f09588&quot;&gt;&lt;h2 class=&quot;uagb-heading-text&quot;&gt;Step&lt;/h2&gt;&lt;div class=&quot;uagb-separator-wrap&quot;&gt;&lt;div class=&quot;uagb-separator&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;p class=&quot;uagb-desc-text&quot;&gt;5&lt;/p&gt;&lt;/div&gt;
+&lt;!-- /wp:uagb/advanced-heading --&gt;
+
+&lt;!-- wp:heading {&quot;level&quot;:3} --&gt;
+&lt;h3&gt;Footer&lt;/h3&gt;
+&lt;!-- /wp:heading --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;Create your footer section by using the line tool to draw a top border (1px light grey #ccc) to a footer section and within it copy-paste (or duplicate) the main navigation within it. Be sure to group the layers and name the folder &quot;footer&quot; &lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:image {&quot;id&quot;:3106,&quot;linkDestination&quot;:&quot;media&quot;} --&gt;
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;a href=&quot;http://egargiulo.com/cms/wp-content/uploads/2019/06/XD-Footer.png&quot;&gt;&lt;img src=&quot;http://egargiulo.com/cms/wp-content/uploads/2019/06/XD-Footer.png&quot; alt=&quot;&quot; class=&quot;wp-image-3106&quot; /&gt;&lt;/a&gt;&lt;/figure&gt;
+&lt;!-- /wp:image --&gt;
+
+&lt;!-- wp:separator --&gt;
+&lt;hr class=&quot;wp-block-separator&quot; /&gt;
+
+&lt;!-- /wp:separator --&gt;
+
+&lt;!-- wp:heading {&quot;level&quot;:3} --&gt;
+&lt;h3&gt;Preview it&lt;/h3&gt;
+&lt;!-- /wp:heading --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;When you are done, you can preview your site directly inside of XD by hitting the Desktop Preview button in the upper right. It should looks like this:&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:image {&quot;id&quot;:3107,&quot;linkDestination&quot;:&quot;media&quot;} --&gt;
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;a href=&quot;http://egargiulo.com/cms/wp-content/uploads/2019/06/XD-HomePageComplete-Preview.png&quot;&gt;&lt;img src=&quot;https://i2.wp.com/www.creativemedia.space/wp-content/uploads/2019/06/XD-HomePageComplete-Preview.png?fit=1500%2C1007&amp;amp;ssl=1&quot; alt=&quot;&quot; class=&quot;wp-image-3107&quot; /&gt;&lt;/a&gt;&lt;/figure&gt;
+&lt;!-- /wp:image --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;Congratulations—you just designed a home page for a website using Adobe XD. &lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:spacer --&gt;
+&lt;div style=&quot;height:100px&quot; aria-hidden=&quot;true&quot; class=&quot;wp-block-spacer&quot;&gt;&lt;/div&gt;
+&lt;!-- /wp:spacer --&gt;</content><author><name>CMS</name></author><summary type="html">An Interface Design Tool Designed for Web Designers</summary></entry><entry><title type="html">Github Pages Setup</title><link href="http://localhost:4000/github-pages-setup/" rel="alternate" type="text/html" title="Github Pages Setup" /><published>2019-06-28T00:00:00-10:00</published><updated>2019-06-28T00:00:00-10:00</updated><id>http://localhost:4000/github-pages-setup</id><content type="html" xml:base="http://localhost:4000/github-pages-setup/">&lt;!-- wp:heading {&quot;level&quot;:3} --&gt;
+&lt;h3&gt;Use Github Pages for your server environment&lt;/h3&gt;
+&lt;!-- /wp:heading --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;&lt;strong&gt;GitHub&lt;/strong&gt; (&lt;a href=&quot;https://github.com/&quot;&gt;github.com&lt;/a&gt;) offers free code storage and Internet hosting service. It is a popular tool used for code collaboration and sharing, but it also offers free hosting for static sites via &lt;strong&gt;Github Pages&lt;/strong&gt; (&lt;a href=&quot;https://pages.github.com/&quot;&gt;pages.github.com&lt;/a&gt;).&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;In this short lesson, we are going to demonstrate how you can use &lt;strong&gt;Github&lt;/strong&gt; to &lt;em&gt;store your code&lt;/em&gt; (and as a &quot;cloud&quot; backup service), and how to use &lt;strong&gt;Github Pages&lt;/strong&gt; as your &lt;em&gt;web server&lt;/em&gt; (free web host). &lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:spacer --&gt;
+&lt;div style=&quot;height:100px&quot; aria-hidden=&quot;true&quot; class=&quot;wp-block-spacer&quot;&gt;&lt;/div&gt;
+&lt;!-- /wp:spacer --&gt;
+
+&lt;!-- wp:uagb/advanced-heading {&quot;block_id&quot;:&quot;4d1fd298-101f-4f32-b144-b8c6a117006c&quot;,&quot;className&quot;:&quot;step-heading&quot;} --&gt;
+&lt;div class=&quot;wp-block-uagb-advanced-heading step-heading&quot; id=&quot;uagb-adv-heading-4d1fd298-101f-4f32-b144-b8c6a117006c&quot;&gt;&lt;h2 class=&quot;uagb-heading-text&quot;&gt;Step&lt;/h2&gt;&lt;div class=&quot;uagb-separator-wrap&quot;&gt;&lt;div class=&quot;uagb-separator&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;p class=&quot;uagb-desc-text&quot;&gt;1&lt;/p&gt;&lt;/div&gt;
+&lt;!-- /wp:uagb/advanced-heading --&gt;
+
+&lt;!-- wp:heading --&gt;
+&lt;h2&gt;Github Setup&lt;/h2&gt;
+&lt;!-- /wp:heading --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;Login to &lt;strong&gt;GitHub.com&lt;/strong&gt; and note your username.&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:list --&gt;
+&lt;ul&gt;&lt;li&gt;Username: __________________&lt;/li&gt;&lt;/ul&gt;
+&lt;!-- /wp:list --&gt;
+
+&lt;!-- wp:image {&quot;id&quot;:2922} --&gt;
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;https://a3b30d40-a508-11e8-b072-36d63035d715.app.getshifter.io:23347/wp-content/uploads/2019/06/github-login-269x300.gif&quot; alt=&quot;&quot; class=&quot;wp-image-2922&quot; /&gt;&lt;/figure&gt;
+&lt;!-- /wp:image --&gt;
+
+&lt;!-- wp:spacer --&gt;
+&lt;div style=&quot;height:100px&quot; aria-hidden=&quot;true&quot; class=&quot;wp-block-spacer&quot;&gt;&lt;/div&gt;
+&lt;!-- /wp:spacer --&gt;
+
+&lt;!-- wp:uagb/advanced-heading {&quot;block_id&quot;:&quot;3aebd9e5-93aa-4f16-ae3b-fd803d1e9c71&quot;,&quot;className&quot;:&quot;step-heading&quot;} --&gt;
+&lt;div class=&quot;wp-block-uagb-advanced-heading step-heading&quot; id=&quot;uagb-adv-heading-3aebd9e5-93aa-4f16-ae3b-fd803d1e9c71&quot;&gt;&lt;h2 class=&quot;uagb-heading-text&quot;&gt;Step&lt;/h2&gt;&lt;div class=&quot;uagb-separator-wrap&quot;&gt;&lt;div class=&quot;uagb-separator&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;p class=&quot;uagb-desc-text&quot;&gt;2&lt;/p&gt;&lt;/div&gt;
+&lt;!-- /wp:uagb/advanced-heading --&gt;
+
+&lt;!-- wp:heading --&gt;
+&lt;h2&gt;Create a new &lt;strong&gt;&lt;em&gt;username&lt;/em&gt;&lt;/strong&gt; repo for main your Github Pages site&lt;/h2&gt;
+&lt;!-- /wp:heading --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;Create a new repo and name it&lt;strong&gt; yourusername.github.io&lt;/strong&gt;&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:list --&gt;
+&lt;ul&gt;&lt;li&gt;Add a brief description&lt;/li&gt;&lt;li&gt;Check the box that says &quot;Add a readme&quot;&lt;/li&gt;&lt;/ul&gt;
+&lt;!-- /wp:list --&gt;
+
+&lt;!-- wp:image {&quot;id&quot;:2930} --&gt;
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;https://a3b30d40-a508-11e8-b072-36d63035d715.app.getshifter.io:23347/wp-content/uploads/2019/05/github-newrepo-300x269.gif&quot; alt=&quot;Github new repo&quot; class=&quot;wp-image-2930&quot; /&gt;&lt;/figure&gt;
+&lt;!-- /wp:image --&gt;
+
+&lt;!-- wp:image {&quot;id&quot;:2951} --&gt;
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;https://i2.wp.com/www.creativemedia.space/wp-content/uploads/2019/06/github-new-repo-screen.gif?fit=1500%2C1329&amp;amp;ssl=1&quot; alt=&quot;&quot; class=&quot;wp-image-2951&quot; /&gt;&lt;figcaption&gt;The create-a-new-repo settings screen.&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;!-- /wp:image --&gt;
+
+&lt;!-- wp:image {&quot;id&quot;:2953} --&gt;
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;https://i1.wp.com/www.creativemedia.space/wp-content/uploads/2019/06/github-newrepo-repoview.gif?fit=1500%2C895&amp;amp;ssl=1&quot; alt=&quot;&quot; class=&quot;wp-image-2953&quot; /&gt;&lt;figcaption&gt;Your Github Pages username repo. Note the url path.&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;!-- /wp:image --&gt;
+
+&lt;!-- wp:spacer --&gt;
+&lt;div style=&quot;height:100px&quot; aria-hidden=&quot;true&quot; class=&quot;wp-block-spacer&quot;&gt;&lt;/div&gt;
+&lt;!-- /wp:spacer --&gt;
+
+&lt;!-- wp:uagb/advanced-heading {&quot;block_id&quot;:&quot;fcfadfb0-307c-4125-821f-1ea1e66400a0&quot;,&quot;className&quot;:&quot;step-heading&quot;} --&gt;
+&lt;div class=&quot;wp-block-uagb-advanced-heading step-heading&quot; id=&quot;uagb-adv-heading-fcfadfb0-307c-4125-821f-1ea1e66400a0&quot;&gt;&lt;h2 class=&quot;uagb-heading-text&quot;&gt;Step&lt;/h2&gt;&lt;div class=&quot;uagb-separator-wrap&quot;&gt;&lt;div class=&quot;uagb-separator&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;p class=&quot;uagb-desc-text&quot;&gt;3&lt;/p&gt;&lt;/div&gt;
+&lt;!-- /wp:uagb/advanced-heading --&gt;
+
+&lt;!-- wp:heading {&quot;level&quot;:3} --&gt;
+&lt;h3&gt;Test your &lt;strong&gt;live&lt;/strong&gt; website&lt;/h3&gt;
+&lt;!-- /wp:heading --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;To see if the setup worked, test your site on the server by visiting the url in a browser.&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:list --&gt;
+&lt;ul&gt;&lt;li&gt;Launch your favorite browser (e.g. Google Chrome) then type in the url &lt;strong&gt;yourusername.github.io&lt;/strong&gt; and see if the readme.md file is displaying as your home page.&lt;ul&gt;&lt;li&gt;If not, you'll need to pause here and troubleshoot.&lt;/li&gt;&lt;li&gt;If it's working, then way to go! &lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;!-- /wp:list --&gt;
+
+&lt;!-- wp:spacer --&gt;
+&lt;div style=&quot;height:100px&quot; aria-hidden=&quot;true&quot; class=&quot;wp-block-spacer&quot;&gt;&lt;/div&gt;
+&lt;!-- /wp:spacer --&gt;</content><author><name>CMS</name></author><summary type="html">Use Github Pages for your server environment</summary></entry><entry><title type="html">Undraw</title><link href="http://localhost:4000/undraw/" rel="alternate" type="text/html" title="Undraw" /><published>2019-06-27T00:00:00-10:00</published><updated>2019-06-27T00:00:00-10:00</updated><id>http://localhost:4000/undraw</id><content type="html" xml:base="http://localhost:4000/undraw/">&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;&lt;a href=&quot;https://undraw.co/&quot;&gt;Undraw&lt;/a&gt; offers a wide range of &lt;a href=&quot;https://undraw.co/illustrations&quot;&gt;free open source illustrations&lt;/a&gt; by&amp;nbsp;&lt;a class=&quot;footer__link&quot; href=&quot;https://twitter.com/ninalimpi&quot; rel=&quot;noopener&quot;&gt;Katerina Limpitsouni&lt;/a&gt;&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;</content><author><name>CMS</name></author><summary type="html">Undraw offers a wide range of free open source illustrations by&amp;nbsp;Katerina Limpitsouni</summary></entry><entry><title type="html">Stockio</title><link href="http://localhost:4000/stockio/" rel="alternate" type="text/html" title="Stockio" /><published>2019-06-27T00:00:00-10:00</published><updated>2019-06-27T00:00:00-10:00</updated><id>http://localhost:4000/stockio</id><content type="html" xml:base="http://localhost:4000/stockio/">&lt;p&gt;&lt;a href=&quot;https://www.stockio.com/&quot;&gt;Stockio&lt;/a&gt; is another source for free stock photos, vector graphics, and icons.&lt;/p&gt;</content><author><name>CMS</name></author><summary type="html">Stockio is another source for free stock photos, vector graphics, and icons.</summary></entry><entry><title type="html">Jen Simmons</title><link href="http://localhost:4000/jen-simmons/" rel="alternate" type="text/html" title="Jen Simmons" /><published>2019-06-19T00:00:00-10:00</published><updated>2019-06-19T00:00:00-10:00</updated><id>http://localhost:4000/jen-simmons</id><content type="html" xml:base="http://localhost:4000/jen-simmons/">&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;Designer and developer advocate at Mozilla. Member of the CSS Working Group. A popular speaker at many web design conferences, Jen Simmons is one of the most vocal advocates for improving web design layouts.&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:list --&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://jensimmons.com/&quot;&gt;Jensimmons.com&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/layoutland/&quot;&gt;Layout Land&lt;/a&gt; (on youtube)&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://labs.jensimmons.com/&quot;&gt;Jen Simmons Labs&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://talks.jensimmons.com/&quot;&gt;Jen Simmons Talks&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;!-- /wp:list --&gt;</content><author><name>CMS</name></author><summary type="html">Designer and developer advocate at Mozilla. Member of the CSS Working Group. A popular speaker at many web design conferences, Jen Simmons is one of the most vocal advocates for improving web design layouts.</summary></entry><entry><title type="html">Brad Frost</title><link href="http://localhost:4000/brad-frost/" rel="alternate" type="text/html" title="Brad Frost" /><published>2019-06-19T00:00:00-10:00</published><updated>2019-06-19T00:00:00-10:00</updated><id>http://localhost:4000/brad-frost</id><content type="html" xml:base="http://localhost:4000/brad-frost/">&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;Designer, writer, and speaker. Brad Frost is a popular speaker at web design conferences and consultant for all things web design and front-end web development related. &lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:heading {&quot;level&quot;:3} --&gt;
+&lt;h3&gt;Links:&lt;/h3&gt;
+&lt;!-- /wp:heading --&gt;
+
+&lt;!-- wp:list --&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;http://bradfrost.com/&quot;&gt;Bradfrost.com&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;http://atomicdesign.bradfrost.com/&quot;&gt;Atomic Design&lt;/a&gt; (book)&lt;/li&gt;&lt;/ul&gt;
+&lt;!-- /wp:list --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;</content><author><name>CMS</name></author><summary type="html">Designer, writer, and speaker. Brad Frost is a popular speaker at web design conferences and consultant for all things web design and front-end web development related.</summary></entry><entry><title type="html">Microsoft Dev Collective</title><link href="http://localhost:4000/microsoft-dev-collective/" rel="alternate" type="text/html" title="Microsoft Dev Collective" /><published>2019-02-14T00:00:00-10:00</published><updated>2019-02-14T00:00:00-10:00</updated><id>http://localhost:4000/microsoft-dev-collective</id><content type="html" xml:base="http://localhost:4000/microsoft-dev-collective/">&lt;p&gt;&lt;a href=&quot;https://developer.microsoft.com/en-us/collective&quot;&gt;Microsoft Dev Collective&lt;/a&gt; is a collection of learning resources for web developers managed by Microsoft.&lt;/p&gt;</content><author><name>CMS</name></author><summary type="html">Microsoft Dev Collective is a collection of learning resources for web developers managed by Microsoft.</summary></entry><entry><title type="html">Iterative Design</title><link href="http://localhost:4000/iterative-design/" rel="alternate" type="text/html" title="Iterative Design" /><published>2019-02-12T00:00:00-10:00</published><updated>2019-02-12T00:00:00-10:00</updated><id>http://localhost:4000/iterative-design</id><content type="html" xml:base="http://localhost:4000/iterative-design/">&lt;!-- wp:heading {&quot;level&quot;:3} --&gt;
+&lt;h3&gt;A Creative Workflow for UX and UI&amp;nbsp;Design&lt;/h3&gt;
+&lt;!-- /wp:heading --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;There are several different approaches, philosophies, and models for &lt;a href=&quot;https://a3b30d40-a508-11e8-b072-36d63035d715.app.getshifter.io:23347/web-design-dev-process/&quot;&gt;web design and development processes&lt;/a&gt;, such as the &lt;a href=&quot;https://en.wikipedia.org/wiki/Waterfall_model&quot;&gt;waterfall model&lt;/a&gt;, &lt;a href=&quot;https://en.wikipedia.org/wiki/Iterative_design&quot;&gt;iterative design&lt;/a&gt;, &lt;a href=&quot;https://en.wikipedia.org/wiki/Iterative_and_incremental_development&quot;&gt;incremental development&lt;/a&gt;, and &lt;a href=&quot;https://en.wikipedia.org/wiki/Agile_software_development&quot;&gt;agile processes&lt;/a&gt;. Each has played a big impact on web design and development over the years. In this lesson, both UX and UI are discussed with a specific focus on the visual design part of the process, specifically the UI design of high fidelity mockups. &lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:more --&gt;
+&lt;!--more--&gt;
+&lt;!-- /wp:more --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;Before we skip to high fidelity UI mockups, let's back up briefly and place this in the larger context of a comprehensive iterative web design and development workflow that embraces adaptive planning, evolutionary development, and continuous improvement. Designed for speed, efficiency, and effectiveness, an iterative design process encourages rapid and flexible responses to change throughout the creative design process with continuous evaluation and improvement.&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:quote --&gt;
+&lt;blockquote class=&quot;wp-block-quote&quot;&gt;&lt;p&gt;Iterative design is a design methodology based on a cyclic process of prototyping, testing, analyzing, and refining a product or process.&lt;/p&gt;&lt;cite&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Iterative_design&quot;&gt;Wikipedia&lt;/a&gt;&lt;/cite&gt;&lt;/blockquote&gt;
+&lt;!-- /wp:quote --&gt;
+
+&lt;!-- wp:image --&gt;
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;http://egargiulo.com/cms/wp-content/uploads/2018/01/process-iterative-modified.gif&quot; alt=&quot;A combined iterative and incremental â5 Dâ process influenced by multiple models.&quot; /&gt;&lt;figcaption&gt;Example: a &quot;Five D&quot; web design and development approach that embraces iterative design and evaluation. &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;!-- /wp:image --&gt;
+
+&lt;!-- wp:separator --&gt;
+&lt;hr class=&quot;wp-block-separator&quot; /&gt;
+
+&lt;!-- /wp:separator --&gt;
+
+&lt;!-- wp:spacer --&gt;
+&lt;div style=&quot;height:100px&quot; aria-hidden=&quot;true&quot; class=&quot;wp-block-spacer&quot;&gt;&lt;/div&gt;
+&lt;!-- /wp:spacer --&gt;
+
+&lt;!-- wp:heading --&gt;
+&lt;h2&gt;Multi-step High Fidelity UI Mockups&lt;/h2&gt;
+&lt;!-- /wp:heading --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;Often times clients need to see (visually) a product early in the design process that will closely resemble the final product, such as high fidelity mockups. Remnants from the days of waterfall web design and development, high fidelity mockups continue to play an integral role in modern day web design and development, especially when it comes to larger budget, client-based projects with multiple team members and stakeholders. &lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;For example, once a project has been clearly defined and pre-visualized with low-fidelity wireframes and prototypes, UI designers are often times tasked with exploring different visual directions via high fidelity mockups, especially for key, important interfaces and/or components. In these cases, a common format is to do two or three rounds of high-fidelity UI mockup designs, with pauses between each round for evaluation, dialogue, client feedback, and iterative improvement. The goal is figure out and clearly define the visual style as close as possible to the final product via multiple rounds of visual exploration. Below are examples of specific approaches this aspect of the overall iterative design process:&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:spacer --&gt;
+&lt;div style=&quot;height:100px&quot; aria-hidden=&quot;true&quot; class=&quot;wp-block-spacer&quot;&gt;&lt;/div&gt;
+&lt;!-- /wp:spacer --&gt;
+
+&lt;!-- wp:heading {&quot;level&quot;:3,&quot;align&quot;:&quot;center&quot;} --&gt;
+&lt;h3 style=&quot;text-align:center&quot;&gt;3 &amp;gt; 2 &amp;gt; 1 UI Mockup Process&lt;/h3&gt;
+&lt;!-- /wp:heading --&gt;
+
+&lt;!-- wp:image {&quot;id&quot;:2248,&quot;align&quot;:&quot;center&quot;} --&gt;
+&lt;div class=&quot;wp-block-image&quot;&gt;&lt;figure class=&quot;aligncenter&quot;&gt;&lt;img src=&quot;http://egargiulo.com/cms/wp-content/uploads/2019/02/iterativedesign-3-2-1.png&quot; alt=&quot;&quot; class=&quot;wp-image-2248&quot; /&gt;&lt;/figure&gt;&lt;/div&gt;
+&lt;!-- /wp:image --&gt;
+
+&lt;!-- wp:spacer --&gt;
+&lt;div style=&quot;height:100px&quot; aria-hidden=&quot;true&quot; class=&quot;wp-block-spacer&quot;&gt;&lt;/div&gt;
+&lt;!-- /wp:spacer --&gt;
+
+&lt;!-- wp:heading {&quot;level&quot;:3,&quot;align&quot;:&quot;center&quot;} --&gt;
+&lt;h3 style=&quot;text-align:center&quot;&gt;2 &amp;gt; 1 UI Mockup Process&lt;/h3&gt;
+&lt;!-- /wp:heading --&gt;
+
+&lt;!-- wp:image {&quot;id&quot;:2250,&quot;align&quot;:&quot;center&quot;} --&gt;
+&lt;div class=&quot;wp-block-image&quot;&gt;&lt;figure class=&quot;aligncenter&quot;&gt;&lt;img src=&quot;http://egargiulo.com/cms/wp-content/uploads/2019/02/iterativedesign-2-1-1.png&quot; alt=&quot;&quot; class=&quot;wp-image-2250&quot; /&gt;&lt;/figure&gt;&lt;/div&gt;
+&lt;!-- /wp:image --&gt;
+
+&lt;!-- wp:spacer --&gt;
+&lt;div style=&quot;height:100px&quot; aria-hidden=&quot;true&quot; class=&quot;wp-block-spacer&quot;&gt;&lt;/div&gt;
+&lt;!-- /wp:spacer --&gt;
+
+&lt;!-- wp:heading {&quot;level&quot;:3} --&gt;
+&lt;h3&gt;Author Notes&lt;/h3&gt;
+&lt;!-- /wp:heading --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;This was written specifically to help aspiring web designers as they aim to:&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:list --&gt;
+&lt;ul&gt;&lt;li&gt;Learn workflows and creative design processes for web design.&lt;/li&gt;&lt;/ul&gt;
+&lt;!-- /wp:list --&gt;</content><author><name>CMS</name></author><summary type="html">A Creative Workflow for UX and UI&amp;nbsp;Design</summary></entry><entry><title type="html">Exercise Positioning Layout Tests</title><link href="http://localhost:4000/exercise-positioning-layout-tests/" rel="alternate" type="text/html" title="Exercise Positioning Layout Tests" /><published>2019-02-12T00:00:00-10:00</published><updated>2019-02-12T00:00:00-10:00</updated><id>http://localhost:4000/exercise-positioning-layout-tests</id><content type="html" xml:base="http://localhost:4000/exercise-positioning-layout-tests/">&lt;!-- wp:heading {&quot;level&quot;:3} --&gt;
+&lt;h3&gt;Hands-on exercises to help understand different layout techniques&lt;/h3&gt;
+&lt;!-- /wp:heading --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;Check out the codepen examples below, each with multiple ways to center content. Be sure to delete the css (or comment it out) line-by-line so you can fully understand the impact of each css property and value.&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:heading {&quot;level&quot;:3} --&gt;
+&lt;h3&gt;Centering&lt;/h3&gt;
+&lt;!-- /wp:heading --&gt;
+
+&lt;!-- wp:heading {&quot;level&quot;:4} --&gt;
+&lt;h4&gt;Horizontal Centering&lt;/h4&gt;
+&lt;!-- /wp:heading --&gt;
+
+&lt;!-- wp:shortcode --&gt;
+&lt;p&gt;[codepen_embed height=”500” theme_id=”0” slug_hash=”xMjyZK” default_tab=”css,result” user=”kccnma”]See the Pen &lt;a href=&quot;https://codepen.io/kccnma/pen/xMjyZK/&quot;&gt;Exercise: Simple Horizontal Centering&lt;/a&gt; by kccnma (&lt;a href=&quot;https://codepen.io/kccnma&quot;&gt;@kccnma&lt;/a&gt;) on &lt;a href=&quot;https://codepen.io&quot;&gt;CodePen&lt;/a&gt;.[/codepen_embed]
+&lt;!-- /wp:shortcode --&gt;&lt;/p&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;Note how it's just one line of code: text-align: center;&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:heading {&quot;level&quot;:4} --&gt;
+&lt;h4&gt;Horizontal + Vertical Centering&lt;/h4&gt;
+&lt;!-- /wp:heading --&gt;
+
+&lt;!-- wp:shortcode --&gt;
+&lt;p&gt;[codepen_embed height=”500” theme_id=”0” slug_hash=”mvLzBw” default_tab=”css,result” user=”kccnma”]See the Pen &lt;a href=&quot;https://codepen.io/kccnma/pen/mvLzBw/&quot;&gt;Exercise: Simple Horizontal and Vertical Centering with Flexbox&lt;/a&gt; by kccnma (&lt;a href=&quot;https://codepen.io/kccnma&quot;&gt;@kccnma&lt;/a&gt;) on &lt;a href=&quot;https://codepen.io&quot;&gt;CodePen&lt;/a&gt;.[/codepen_embed]
+&lt;!-- /wp:shortcode --&gt;&lt;/p&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;Note the use of flexbox and subsequent two (three total) lines of code: display: flex; justify-content: center; align-items: center;&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:heading {&quot;level&quot;:3} --&gt;
+&lt;h3&gt;Absolute vs. Relative Positioning&lt;/h3&gt;
+&lt;!-- /wp:heading --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;Understanding when to use each is important and empowering.&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;HINT: it's all about preserving normal flow.&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:heading {&quot;level&quot;:4} --&gt;
+&lt;h4&gt;&quot;Don't break me.&quot;&amp;nbsp;–Normal Flow&lt;/h4&gt;
+&lt;!-- /wp:heading --&gt;
+
+&lt;!-- wp:shortcode --&gt;
+&lt;p&gt;[codepen_embed height=”500” theme_id=”0” slug_hash=”ddyQEZ” default_tab=”css,result” user=”kccnma”]See the Pen &lt;a href=&quot;https://codepen.io/kccnma/pen/ddyQEZ/&quot;&gt;CSS Positioning Test #1: Absolute vs. Relative&lt;/a&gt; by kccnma (&lt;a href=&quot;https://codepen.io/kccnma&quot;&gt;@kccnma&lt;/a&gt;) on &lt;a href=&quot;https://codepen.io&quot;&gt;CodePen&lt;/a&gt;.[/codepen_embed]
+&lt;!-- /wp:shortcode --&gt;&lt;/p&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;Note how absolute positioning breaks normal flow.&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:heading {&quot;level&quot;:4} --&gt;
+&lt;h4&gt;It's all Relative...&lt;/h4&gt;
+&lt;!-- /wp:heading --&gt;
+
+&lt;!-- wp:shortcode --&gt;
+&lt;p&gt;[codepen_embed height=”500” theme_id=”0” slug_hash=”NyWepK” default_tab=”css,result” user=”kccnma”]See the Pen &lt;a href=&quot;https://codepen.io/kccnma/pen/NyWepK/&quot;&gt;CSS Position Test #2: Absolute child inside of a Relative Parent&lt;/a&gt; by kccnma (&lt;a href=&quot;https://codepen.io/kccnma&quot;&gt;@kccnma&lt;/a&gt;) on &lt;a href=&quot;https://codepen.io&quot;&gt;CodePen&lt;/a&gt;.[/codepen_embed]
+&lt;!-- /wp:shortcode --&gt;&lt;/p&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;HINT: when you think of the word &quot;relative&quot; try to think of a family member such as your parent. In this context, whenever you are positioning an element using absolute positioning, think of it like a child and ask &quot;who is the parent?&quot; When a parent gets a position: relative setting, it becomes the 0,0 (x,y) coordinate for it's absolutely positioned children.&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:heading {&quot;level&quot;:3} --&gt;
+&lt;h3&gt;Floats vs. Inline-Blocks&lt;/h3&gt;
+&lt;!-- /wp:heading --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;When it comes to two-dimensional content, such as a grid of thumb images, flexbox is now well supported in all modern browsers so it is highly recommended, but I also recommend understanding the strategies behind two old-school, tried-and-true techniques (and their shortcomings): 1) Floats (including the need for &quot;clearing&quot; floats with &quot;clear fixes&quot; and 2) inline-blocks (and the inline &quot;space&quot; between them):&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:heading {&quot;level&quot;:4} --&gt;
+&lt;h4&gt;Floats&lt;/h4&gt;
+&lt;!-- /wp:heading --&gt;
+
+&lt;!-- wp:shortcode --&gt;
+&lt;p&gt;[codepen_embed height=”500” theme_id=”0” slug_hash=”mXdoPw” default_tab=”css,result” user=”kccnma”]See the Pen &lt;a href=&quot;https://codepen.io/kccnma/pen/mXdoPw/&quot;&gt;CSS Positioning Test #3: Floats&lt;/a&gt; by kccnma (&lt;a href=&quot;https://codepen.io/kccnma&quot;&gt;@kccnma&lt;/a&gt;) on &lt;a href=&quot;https://codepen.io&quot;&gt;CodePen&lt;/a&gt;.[/codepen_embed]
+&lt;!-- /wp:shortcode --&gt;&lt;/p&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;Note the &quot;clearfix&quot; css used to keep the parent element open&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:heading {&quot;level&quot;:4} --&gt;
+&lt;h4&gt;Inline Blocks&lt;/h4&gt;
+&lt;!-- /wp:heading --&gt;
+
+&lt;!-- wp:shortcode --&gt;
+&lt;p&gt;[codepen_embed height=”500” theme_id=”0” slug_hash=”KQKEzr” default_tab=”css,result” user=”kccnma”]See the Pen &lt;a href=&quot;https://codepen.io/kccnma/pen/KQKEzr/&quot;&gt;CSS Positioning Test #4: Inline-Block&lt;/a&gt; by kccnma (&lt;a href=&quot;https://codepen.io/kccnma&quot;&gt;@kccnma&lt;/a&gt;) on &lt;a href=&quot;https://codepen.io&quot;&gt;CodePen&lt;/a&gt;.[/codepen_embed]
+&lt;!-- /wp:shortcode --&gt;&lt;/p&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;Note the space between each inline-block element&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:heading {&quot;level&quot;:3} --&gt;
+&lt;h3&gt;Custom Grid Systems&lt;/h3&gt;
+&lt;!-- /wp:heading --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;Custom semantic grids are super helpful and convenient when laying out content. There&amp;nbsp; are multiple ways to code your own grid from scratch (it's not that hard to do and takes very little time), such as using floats, flexbox, and CSS&amp;nbsp;Grid. Each has it's own challenges and advantages, so it's helpful to understand the proc and cons for each. Here's a simple flexbox grid with useful semantic classnames and helper utility classes that can be easily used (and reused) for many common layout scenarios:&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:shortcode --&gt;
+&lt;p&gt;[codepen_embed height=”1000” theme_id=”0” slug_hash=”NORrOp” default_tab=”result” user=”kccnma”]See the Pen &lt;a href=&quot;https://codepen.io/kccnma/pen/NORrOp/&quot;&gt;Reusable Semantic Grid System for Page Layout: Using Flexbox&lt;/a&gt; by kccnma (&lt;a href=&quot;https://codepen.io/kccnma&quot;&gt;@kccnma&lt;/a&gt;) on &lt;a href=&quot;https://codepen.io&quot;&gt;CodePen&lt;/a&gt;.[/codepen_embed]
+&lt;!-- /wp:shortcode --&gt;&lt;/p&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;If you completed these exercises, nice work!&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;</content><author><name>CMS</name></author><summary type="html">Hands-on exercises to help understand different layout techniques</summary></entry><entry><title type="html">Jsconfhi 2019</title><link href="http://localhost:4000/jsconfhi-2019/" rel="alternate" type="text/html" title="Jsconfhi 2019" /><published>2019-02-12T00:00:00-10:00</published><updated>2019-02-12T00:00:00-10:00</updated><id>http://localhost:4000/jsconfhi-2019</id><content type="html" xml:base="http://localhost:4000/jsconfhi-2019/">&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;February 7th &amp;amp; 8, 2019&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:separator --&gt;
+&lt;hr class=&quot;wp-block-separator&quot; /&gt;
+
+&lt;!-- /wp:separator --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;Site:&lt;a href=&quot;https://www.jsconfhi.com&quot;&gt; https://www.jsconfhi.com&lt;/a&gt; &lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;See stuff on Twitter:&lt;a href=&quot;https://twitter.com/hashtag/JSConfHi?src=hash&quot;&gt; https://twitter.com/hashtag/JSConfHi?src=hash&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:separator --&gt;
+&lt;hr class=&quot;wp-block-separator&quot; /&gt;
+
+&lt;!-- /wp:separator --&gt;
+
+&lt;!-- wp:heading {&quot;level&quot;:1} --&gt;
+&lt;h1&gt;Presentation Notes&lt;/h1&gt;
+&lt;!-- /wp:heading --&gt;
+
+&lt;!-- wp:heading --&gt;
+&lt;h2&gt;Kyle Oba&lt;/h2&gt;
+&lt;!-- /wp:heading --&gt;
+
+&lt;!-- wp:list --&gt;
+&lt;ul&gt;&lt;li&gt;Links:&lt;ul&gt;&lt;li&gt;Pas de chocolat&lt;a href=&quot;https://www.pasdechocolat.com/&quot;&gt; https://www.pasdechocolat.com/&lt;/a&gt; &lt;/li&gt;&lt;li&gt;Repo:&lt;a href=&quot;https://github.com/mudphone/JSConfHI_HIandAI&quot;&gt; https://github.com/mudphone/JSConfHI_HIandAI&lt;/a&gt;&lt;/li&gt;&lt;li&gt;Slides:&lt;a href=&quot;https://github.com/mudphone/JSConfHI_HIandAI/blob/master/JSConfHI_HIandAI.pdf&quot;&gt; https://github.com/mudphone/JSConfHI_HIandAI/blob/master/JSConfHI_HIandAI.pdf&lt;/a&gt; &lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;project at Honolulu Museum of Art on Surveillance&lt;ul&gt;&lt;li&gt;Classified&lt;a href=&quot;https://honolulumuseum.org/events/lectures_performances/16601-focus_talk_my_profile_tour&quot;&gt; https://honolulumuseum.org/events/lectures_performances/16601-focus_talk_my_profile_tour&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;https://www.pasdechocolat.com/&lt;/li&gt;&lt;li&gt;Angela Ni as designer?&lt;/li&gt;&lt;/ul&gt;
+&lt;!-- /wp:list --&gt;
+
+&lt;!-- wp:heading --&gt;
+&lt;h2&gt;Visnu P&lt;/h2&gt;
+&lt;!-- /wp:heading --&gt;
+
+&lt;!-- wp:list --&gt;
+&lt;ul&gt;&lt;li&gt;how to cheat at life with JS &lt;ul&gt;&lt;li&gt;built a “Set” game mobile app (with html5 canvas and JS) that uses the phone camera to find sets. &lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;Tags:&lt;ul&gt;&lt;li&gt;JS, computer vision, AR, HTML5 Canvas&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;Links:&lt;ul&gt;&lt;li&gt;slidedeck:&lt;a href=&quot;https://beta.observablehq.com/@visnup/cheat&quot;&gt; https://beta.observablehq.com/@visnup/cheat&lt;/a&gt;&lt;/li&gt;&lt;li&gt;repo:&lt;a href=&quot;https://github.com/visnup/cheat-at-set&quot;&gt; https://github.com/visnup/cheat-at-set&lt;/a&gt; &lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;!-- /wp:list --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:heading --&gt;
+&lt;h2&gt;James Halliday&lt;/h2&gt;
+&lt;!-- /wp:heading --&gt;
+
+&lt;!-- wp:list --&gt;
+&lt;ul&gt;&lt;li&gt;Community mapping with p2p in South America &lt;/li&gt;&lt;li&gt;slides:&lt;a href=&quot;https://github.com/substack/jsconfhi2019-offline-p2p-mapping&quot;&gt; https://github.com/substack/jsconfhi2019-offline-p2p-mapping&lt;/a&gt; &lt;/li&gt;&lt;li&gt;Digitial Democracy&lt;/li&gt;&lt;li&gt;Community maps of resources (different than government map, that are incomplete, and govs are the ones giving contracts to outsiders to mine, drill, etc)&lt;/li&gt;&lt;li&gt;Many environmental challenges - offline p2p solution&lt;/li&gt;&lt;/ul&gt;
+&lt;!-- /wp:list --&gt;
+
+&lt;!-- wp:heading --&gt;
+&lt;h2&gt;Andres Cuervo&lt;/h2&gt;
+&lt;!-- /wp:heading --&gt;
+
+&lt;!-- wp:list --&gt;
+&lt;ul&gt;&lt;li&gt;immersive web in 2019&lt;/li&gt;&lt;li&gt;Slides:&lt;a href=&quot;https://slides.cwervo.com/mdx-slides/jsconf-hawaii-2019/?mode=#0&quot;&gt; https://slides.cwervo.com/mdx-slides/jsconf-hawaii-2019/&lt;/a&gt;&lt;/li&gt;&lt;li&gt;Webgl and threejs &lt;/li&gt;&lt;li&gt;Aframe (js framework for webgl?)&lt;ul&gt;&lt;li&gt;Can test via codepen &lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;VR (start) then...&lt;/li&gt;&lt;li&gt;AR (Pokémon go)&lt;/li&gt;&lt;li&gt;XR (and WebXR) = VR &amp;amp; AR&lt;ul&gt;&lt;li&gt;WebXR Device API&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;Cool visual of AR in browser on a mobile device (rockets launching)&lt;/li&gt;&lt;li&gt;Random idea: multiplayer beer pong or catch (throwing a virtual ping pong ball or ball to another, or virtual darts)&lt;ul&gt;&lt;li&gt;Windy darts?&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;slides.cuervo.com&lt;/li&gt;&lt;/ul&gt;
+&lt;!-- /wp:list --&gt;
+
+&lt;!-- wp:heading --&gt;
+&lt;h2&gt;Olivia Jack&lt;/h2&gt;
+&lt;!-- /wp:heading --&gt;
+
+&lt;!-- wp:list --&gt;
+&lt;ul&gt;&lt;li&gt;browser as visual synthesizer&lt;/li&gt;&lt;li&gt;Hydra (her browser-based visual coding tool / editor where you code in the browser)&lt;ul&gt;&lt;li&gt;Editor: https://hydra-editor-v1.glitch.me/&lt;/li&gt;&lt;li&gt;Repo:&lt;a href=&quot;https://github.com/ojack/hydra&quot;&gt; https://github.com/ojack/hydra&lt;/a&gt; &lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;Awesome visuals!&lt;/li&gt;&lt;li&gt;The “Feedback loop” leading to serendipity (good quote by Dan Sandin 1971)&lt;/li&gt;&lt;/ul&gt;
+&lt;!-- /wp:list --&gt;
+
+&lt;!-- wp:heading --&gt;
+&lt;h2&gt;Anna Watt&lt;/h2&gt;
+&lt;!-- /wp:heading --&gt;
+
+&lt;!-- wp:list --&gt;
+&lt;ul&gt;&lt;li&gt;collaborate design working&lt;/li&gt;&lt;li&gt;Worked at Stanford doing accessibility and ux &lt;/li&gt;&lt;li&gt;“Working sessions” or “working meetings” different than a traditional meeting. &lt;/li&gt;&lt;li&gt;“Stand ups”&lt;/li&gt;&lt;li&gt;Mural (tool) for virtual white boarding&lt;/li&gt;&lt;li&gt;Figma &lt;/li&gt;&lt;li&gt;Zoom.us (setup a NMA one?)&lt;/li&gt;&lt;li&gt;Optimal workshop&lt;/li&gt;&lt;/ul&gt;
+&lt;!-- /wp:list --&gt;
+
+&lt;!-- wp:heading --&gt;
+&lt;h2&gt;Willian Martins&lt;/h2&gt;
+&lt;!-- /wp:heading --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;Future of JS II&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:list --&gt;
+&lt;ul&gt;&lt;li&gt;Nice slides on JS syntax and diff ways to do things like conditionals (if/then, switch/cases, and ____)&lt;/li&gt;&lt;li&gt;Has a proposal for future JS improvements (advanced stuff)&lt;/li&gt;&lt;/ul&gt;
+&lt;!-- /wp:list --&gt;
+
+&lt;!-- wp:heading --&gt;
+&lt;h2&gt;Shawn Wang&lt;/h2&gt;
+&lt;!-- /wp:heading --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;Babel Macros&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:list --&gt;
+&lt;ul&gt;&lt;li&gt;Works at Netlfy as DX (Developer Experience)&lt;/li&gt;&lt;li&gt;Had cools slides on history of JS&lt;/li&gt;&lt;li&gt;Awesome storytelling presentation using Moana as narrative structure&lt;/li&gt;&lt;li&gt;Compared rest and graphQL (then Babel and Babel Macros)&lt;/li&gt;&lt;/ul&gt;
+&lt;!-- /wp:list --&gt;
+
+&lt;!-- wp:heading --&gt;
+&lt;h2&gt;Brie Bunge&lt;/h2&gt;
+&lt;!-- /wp:heading --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;TypeScript&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:list --&gt;
+&lt;ul&gt;&lt;li&gt;Airbnb migrating to TypeScript &lt;/li&gt;&lt;li&gt;“Typescript for the win!” (For her team)&lt;ul&gt;&lt;li&gt;Strict JS leading to less bugs&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;!-- /wp:list --&gt;
+
+&lt;!-- wp:heading --&gt;
+&lt;h2&gt;Lin Clark and Till Schneidereit&lt;/h2&gt;
+&lt;!-- /wp:heading --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;Cartoons and WebAssembly&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:list --&gt;
+&lt;ul&gt;&lt;li&gt;Powerful for desktop or older apps (eg those built w/ C++) and has potential for things like running photoshop in the browser&lt;/li&gt;&lt;li&gt;Growing, might play a more important role in the future as it gains more features that are currently in development &lt;/li&gt;&lt;/ul&gt;
+&lt;!-- /wp:list --&gt;
+
+&lt;!-- wp:heading --&gt;
+&lt;h2&gt;Matteo Collina&lt;/h2&gt;
+&lt;!-- /wp:heading --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;Node.js I/O&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:list --&gt;
+&lt;ul&gt;&lt;li&gt;Missed (had to leave early)&lt;/li&gt;&lt;/ul&gt;
+&lt;!-- /wp:list --&gt;
+
+&lt;!-- wp:heading --&gt;
+&lt;h2&gt;Stanimira Vlaeva&lt;/h2&gt;
+&lt;!-- /wp:heading --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;Embedding V8 in the real world&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:list --&gt;
+&lt;ul&gt;&lt;li&gt;Missed (had to leave early)&lt;/li&gt;&lt;li&gt;Slides:&lt;a href=&quot;https://docs.google.com/presentation/d/e/2PACX-1vQxllpntAZ6t9B7f6mrt768Yi7zQimvDSWIhuwWWb7EzehN1WXqwU0StL8_yKnYiyh90gIVwPPXfltu/pub?start=false&amp;amp;loop=false&amp;amp;delayms=60000&amp;amp;slide=id.g4cb33202f0_0_354&quot;&gt; https://docs.google.com/presentation/d/e/2PACX-1vQxllpntAZ6t9B7f6mrt768Yi7zQimvDSWIhuwWWb7EzehN1WXqwU0StL8_yKnYiyh90gIVwPPXfltu/pub?start=false&amp;amp;loop=false&amp;amp;delayms=60000&amp;amp;slide=id.g4cb33202f0_0_354&lt;/a&gt;&lt;/li&gt;&lt;li&gt;What is V8?&lt;a href=&quot;https://v8.dev/&quot;&gt; https://v8.dev/&lt;/a&gt; &lt;/li&gt;&lt;/ul&gt;
+&lt;!-- /wp:list --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:heading --&gt;
+&lt;h2&gt;Hilary Stohs-Krause&lt;/h2&gt;
+&lt;!-- /wp:heading --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;UX Talk&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:list --&gt;
+&lt;ul&gt;&lt;li&gt;Slides:&lt;a href=&quot;https://www.slideshare.net/mobile/thestohs/jsconfhawaii-2019-how-to-make-your-website-not-ugly&quot;&gt; https://www.slideshare.net/mobile/thestohs/jsconfhawaii-2019-how-to-make-your-website-not-ugly&lt;/a&gt;&lt;/li&gt;&lt;li&gt;Basics of type (limiting the number of characters per line)&lt;/li&gt;&lt;li&gt;Users scan (they do not read)&lt;/li&gt;&lt;li&gt;Icons should have labels (as a rule, not the exception)&lt;/li&gt;&lt;li&gt;Cool exercise (presenter asked think of a “share” icon, then showed examples of many difference icons used for sharing&lt;/li&gt;&lt;li&gt;Use appropriate images with content/text (informative, relevant)&lt;/li&gt;&lt;li&gt;Good slides of bad sites contrasted with good sites (examples)&lt;/li&gt;&lt;li&gt;Good slide with a list of citations (sources) references to justify the design decisions she presented&lt;/li&gt;&lt;/ul&gt;
+&lt;!-- /wp:list --&gt;
+
+&lt;!-- wp:heading --&gt;
+&lt;h2&gt;Amy Wibowo&lt;/h2&gt;
+&lt;!-- /wp:heading --&gt;
+
+&lt;!-- wp:list --&gt;
+&lt;ul&gt;&lt;li&gt;Writing algorithms to calculate the phases of the moon&lt;/li&gt;&lt;li&gt;Cool site: &lt;a href=&quot;http://witchy.co/trig/&quot;&gt;http://witchy.co/trig/&lt;/a&gt; &lt;/li&gt;&lt;/ul&gt;
+&lt;!-- /wp:list --&gt;
+
+&lt;!-- wp:heading --&gt;
+&lt;h2&gt;Louisa Barrett&lt;/h2&gt;
+&lt;!-- /wp:heading --&gt;
+
+&lt;!-- wp:list --&gt;
+&lt;ul&gt;&lt;li&gt;Color Theory (Teenage Mutant Ninja Turtle Guide)&lt;/li&gt;&lt;li&gt;from Turing School&lt;a href=&quot;https://turing.io/&quot;&gt; https://turing.io/&lt;/a&gt;&lt;/li&gt;&lt;li&gt;Found video online:&lt;a href=&quot;https://www.youtube.com/watch?v=Sq7RIQGzGNE&quot;&gt; https://www.youtube.com/watch?v=Sq7RIQGzGNE&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;!-- /wp:list --&gt;
+
+&lt;!-- wp:heading --&gt;
+&lt;h2&gt;Crystal Martin&lt;/h2&gt;
+&lt;!-- /wp:heading --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;JavaScript is AsynchroWAT?&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:list --&gt;
+&lt;ul&gt;&lt;li&gt;Asynchronous JS&lt;ul&gt;&lt;li&gt;functions&lt;/li&gt;&lt;li&gt;callbacks &lt;/li&gt;&lt;li&gt;promises&lt;/li&gt;&lt;li&gt;take-away: instead of a bunch of nested if/thens (and a headache of error handling/bug-tracking) one can use promises to chain asynchronous things together (?)&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;Async Await (just like a bunch of .then statements, but shorter and easier?)&lt;/li&gt;&lt;li&gt;Used her personal hair routine as a nice example&lt;/li&gt;&lt;/ul&gt;
+&lt;!-- /wp:list --&gt;
+
+&lt;!-- wp:heading --&gt;
+&lt;h2&gt;Jenn Creighton&lt;/h2&gt;
+&lt;!-- /wp:heading --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;ES6 generators&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:list --&gt;
+&lt;ul&gt;&lt;li&gt;Created a game with sprite animation&lt;ul&gt;&lt;li&gt;repo:&lt;a href=&quot;https://github.com/jcreighton/tamagotchi&quot;&gt; https://github.com/jcreighton/tamagotchi&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;Initially used promises for all animations (to track status of all asynchronous animations?)&lt;/li&gt;&lt;li&gt;Spoke about Callbacks (once were used, but were problematic and led to “callback hell”)&lt;/li&gt;&lt;li&gt;event handling&lt;/li&gt;&lt;li&gt;created a generator, ended up rewriting it with promises and generators&lt;/li&gt;&lt;li&gt;thinking “sequentially” about “asynchronous” JS&lt;/li&gt;&lt;li&gt;coroutines (?) where used and while loops (typically not used often ?)&lt;ul&gt;&lt;li&gt;coroutines handle the chaining (sequencing)&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;!-- /wp:list --&gt;
+
+&lt;!-- wp:heading --&gt;
+&lt;h2&gt;Konstantin Raev&lt;/h2&gt;
+&lt;!-- /wp:heading --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;Hitting performance goals for the biggest Mobile JS App at Facebook&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:list --&gt;
+&lt;ul&gt;&lt;li&gt;Works at Facebook, fan of React and React Native&lt;/li&gt;&lt;li&gt;Talked performance and Facebook Marketplace&lt;/li&gt;&lt;li&gt;Live reloading vs Hot reloading (component reloading only)&lt;/li&gt;&lt;li&gt;Spoke about lots of stuff (e.g. optimization, build processes, web pack, performance, etc.) including:&lt;ul&gt;&lt;li&gt;JS code splitting&lt;/li&gt;&lt;li&gt;Avoid extra render calls &lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;!-- /wp:list --&gt;
+
+&lt;!-- wp:heading --&gt;
+&lt;h2&gt;&lt;del&gt;Sarah Drasner&lt;/del&gt;&lt;del&gt;	&lt;/del&gt;&lt;/h2&gt;
+&lt;!-- /wp:heading --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;&lt;del&gt;The Art of Code Comments&lt;/del&gt;&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:list --&gt;
+&lt;ul&gt;&lt;li&gt;&lt;del&gt;Cancelled (sick)&lt;/del&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;!-- /wp:list --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;LIVE Podcast Panel discussion hosted by JS Party&lt;br /&gt;Kevin Ball of JS Party + Friends&lt;br /&gt;&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:list --&gt;
+&lt;ul&gt;&lt;li&gt;Mainly on their usage of these programs&lt;/li&gt;&lt;li&gt;webAssembly &lt;/li&gt;&lt;li&gt;React js&lt;/li&gt;&lt;/ul&gt;
+&lt;!-- /wp:list --&gt;
+
+&lt;!-- wp:heading --&gt;
+&lt;h2&gt;Emily Kearney&lt;/h2&gt;
+&lt;!-- /wp:heading --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;Navigating Unconscious Bias: a tool-based approach to reprogramming our biases&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:list --&gt;
+&lt;ul&gt;&lt;li&gt;Motivated to overcome bias&lt;/li&gt;&lt;li&gt;Observe the problem, positive redirection, transfer the work, label the stereotype&lt;/li&gt;&lt;li&gt;images&lt;/li&gt;&lt;/ul&gt;
+&lt;!-- /wp:list --&gt;
+
+&lt;!-- wp:heading --&gt;
+&lt;h2&gt;Trish Ang&lt;/h2&gt;
+&lt;!-- /wp:heading --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;How to Fail at Accessibility&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:list --&gt;
+&lt;ul&gt;&lt;li&gt;Front end developer engineer at slack [show slack kit]&lt;/li&gt;&lt;li&gt;Webpack&lt;/li&gt;&lt;li&gt;Accessibility bugs are broken functionality..&lt;/li&gt;&lt;li&gt;Testing, building, process&lt;/li&gt;&lt;li&gt;Color contrast analyzer&lt;/li&gt;&lt;li&gt;Focus ring - keyboard&lt;/li&gt;&lt;li&gt;Control option u - accessibility talk on mac (I think raph and craig show in their presentation)&lt;/li&gt;&lt;li&gt;Aria&lt;/li&gt;&lt;li&gt;Js utility coding&lt;/li&gt;&lt;li&gt;images&lt;/li&gt;&lt;/ul&gt;
+&lt;!-- /wp:list --&gt;
+
+&lt;!-- wp:heading --&gt;
+&lt;h2&gt;Garth Henson&lt;/h2&gt;
+&lt;!-- /wp:heading --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;Where did all my servers go?&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:list --&gt;
+&lt;ul&gt;&lt;li&gt;Using node and react&lt;/li&gt;&lt;li&gt;Serverless &lt;/li&gt;&lt;li&gt;Rather pay for service than building your own&lt;/li&gt;&lt;li&gt;AWS amazon, SLA - idk on&lt;/li&gt;&lt;/ul&gt;
+&lt;!-- /wp:list --&gt;
+
+&lt;!-- wp:heading --&gt;
+&lt;h2&gt;Thais Correia&lt;/h2&gt;
+&lt;!-- /wp:heading --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;GraphQL, the Domain Way&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:list --&gt;
+&lt;ul&gt;&lt;li&gt;Software engineer&lt;/li&gt;&lt;li&gt;GraphQL - Graph Query Language&lt;/li&gt;&lt;li&gt;Goes with react&lt;/li&gt;&lt;li&gt;Images&lt;/li&gt;&lt;/ul&gt;
+&lt;!-- /wp:list --&gt;
+
+&lt;!-- wp:heading --&gt;
+&lt;h2&gt;Jessica Lord&lt;/h2&gt;
+&lt;!-- /wp:heading --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;Building up the Electron Project: Team and Community Engineering&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:list --&gt;
+&lt;ul&gt;&lt;li&gt;Was an engineering with github&lt;/li&gt;&lt;li&gt;Atom-shell text editor now Electron&lt;/li&gt;&lt;li&gt;jlord.us/essential-electron&lt;/li&gt;&lt;/ul&gt;
+&lt;!-- /wp:list --&gt;
+
+&lt;!-- wp:heading {&quot;level&quot;:1} --&gt;
+&lt;h1&gt;General notes&lt;/h1&gt;
+&lt;!-- /wp:heading --&gt;
+
+&lt;!-- wp:list --&gt;
+&lt;ul&gt;&lt;li&gt;React hooks (There was a joke about this: sites with and sites without)&lt;/li&gt;&lt;li&gt;Consider using GitHub root ghpages repo for your portfolio&lt;/li&gt;&lt;/ul&gt;
+&lt;!-- /wp:list --&gt;</content><author><name>CMS</name></author><summary type="html">February 7th &amp;amp; 8, 2019</summary></entry></feed>

@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.6.1 -->
+<title>Box Model | CMS</title>
+<meta name="generator" content="Jekyll v3.8.6" />
+<meta property="og:title" content="Box Model" />
+<meta name="author" content="CMS" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="CSS Margin, Padding, and Borders" />
+<meta property="og:description" content="CSS Margin, Padding, and Borders" />
+<link rel="canonical" href="http://localhost:4000/box-model/" />
+<meta property="og:url" content="http://localhost:4000/box-model/" />
+<meta property="og:site_name" content="CMS" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2018-01-23T00:00:00-10:00" />
+<script type="application/ld+json">
+{"description":"CSS Margin, Padding, and Borders","author":{"@type":"Person","name":"CMS"},"@type":"BlogPosting","url":"http://localhost:4000/box-model/","headline":"Box Model","dateModified":"2018-01-23T00:00:00-10:00","datePublished":"2018-01-23T00:00:00-10:00","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/box-model/"},"@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+<link rel="stylesheet" href="/assets/main.css"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="CMS" /></head>
+<body><header class="site-header" role="banner">
+
+  <div class="wrapper"><a class="site-title" rel="author" href="/">CMS</a><nav class="site-nav">
+        <input type="checkbox" id="nav-trigger" class="nav-trigger" />
+        <label for="nav-trigger">
+          <span class="menu-icon">
+            <svg viewBox="0 0 18 15" width="18px" height="15px">
+              <path d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.032C17.335,0,18,0.665,18,1.484L18,1.484z M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.032C17.335,6.031,18,6.696,18,7.516L18,7.516z M18,13.516C18,14.335,17.335,15,16.516,15H1.484 C0.665,15,0,14.335,0,13.516l0,0c0-0.82,0.665-1.483,1.484-1.483h15.032C17.335,12.031,18,12.695,18,13.516L18,13.516z"/>
+            </svg>
+          </span>
+        </label>
+
+        <div class="trigger"><a class="page-link" href="/about/">About</a><a class="page-link" href="/courses/">Courses</a><a class="page-link" href="/posts/">Posts</a><a class="page-link" href="/resources/">Resources</a></div>
+      </nav></div>
+</header>
+<main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+    <h1 class="post-title p-name" itemprop="name headline">Box Model</h1>
+    <!-- <p class="post-meta">
+      <time class="dt-published" datetime="2018-01-23T00:00:00-10:00" itemprop="datePublished">Jan 23, 2018
+      </time>• <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">CMS</span></span></p> -->
+  </header>
+
+  <div class="post-content e-content" itemprop="articleBody">
+    <!-- wp:heading {"level":3} -->
+<h3>CSS Margin, Padding, and Borders</h3>
+<!-- /wp:heading -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><p>In web development, the CSS box model refers to the composition of a webpage or HTML page from blocks or boxes using CSS. Specifically, the box model describes how the size of each such block and its content is determined through styling instructions. The guidelines of the box model are described by the World Wide Web Consortium (W3C).<br />– <a href="https://en.wikipedia.org/wiki/CSS_box_model">Wikipedia</a></p></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:image {"id":1757,"align":"center"} -->
+<div class="wp-block-image"><figure class="aligncenter"><img src="http://egargiulo.com/cms/wp-content/uploads/2018/01/site-outlined.gif" alt="web site as rectangle blocks" class="wp-image-1757" /></figure></div>
+<!-- /wp:image -->
+
+<!-- wp:heading -->
+<h2>HTML Elements as Boxes</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>One way to envision a web page is by thinking of it as a bunch of "boxes," or rectangles. There are browser tools (e.g. <a href="https://chrispederick.com/work/web-developer/">Chris Pederick's Web Developer Toolbar</a>) that allow you to display any page's elements's with outlines. With that said, each element, or more accurately each <em>block-level</em> element, has four key attributes that directly impact the overall size of the "box."</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list {"ordered":true} -->
+<ol><li>Width (and height too)</li><li>Padding</li><li>Border</li><li>Margin</li></ol>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>For a div with the default <strong>box-sizing: content-box</strong> settings, the total rendered width will include a total of all four properties (width + padding + border + margin). The width property will refer to the most inward width of the content inside of the div, then each of the other three properties (padding, border, and margin) will be added to the width.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>For a div with&nbsp;<strong>box-sizing: border-box</strong> settings, the total rendered width will not include the padding and border, and only include a total of the width + margin. The width property in this case, will refer to the most inward width of the content inside of the div + padding + border. This can be helpful when making visual adjustments to component elements inside of a pre-set grid system (e.g. adding a thick border, increasing padding, etc.).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:shortcode -->
+<p>[codepen_embed height=”737” theme_id=”0” slug_hash=”geqbwR” default_tab=”result” user=”kccnma”]See the Pen <a href="https://codepen.io/kccnma/pen/geqbwR/">Box Model</a> by kccnma (<a href="https://codepen.io/kccnma">@kccnma</a>) on <a href="https://codepen.io">CodePen</a>.[/codepen_embed]
+<!-- /wp:shortcode --></p>
+
+<!-- wp:paragraph -->
+<p>Since default content-box elements can be difficult at times to manage (e.g. when dealing with different grid systems for layout), some developers choose to convert all of their elements to border-box like this:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:code -->
+<pre class="wp-block-code"><code class="">* {
+  box-sizing: border-box;
+}
+</code></pre>
+<!-- /wp:code -->
+
+<!-- wp:heading -->
+<h2>Normal Flow</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Normal flow is the default way that html elements are rendered, or laid out, by the browser. For most browsers with default settings elements will render from the top-down and left-to-right, with block level elements (e.g. divs) rendering at 100% width and stacking upon one another and inline elements (e.g. spans) rendering at the width of the content inside of them and next to one another on the same line similar to how text (letters and words) are rendered side-by-side by default, if there is enough space, and wrapping underneath one another when there is not enough space.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:shortcode -->
+<p>[codepen_embed height=”500” theme_id=”0” slug_hash=”ZwOVbZ” default_tab=”html,result” user=”kccnma”]See the Pen <a href="https://codepen.io/kccnma/pen/ZwOVbZ/">Normal Flow: Block and Inline level elements</a> by kccnma (<a href="https://codepen.io/kccnma">@kccnma</a>) on <a href="https://codepen.io">CodePen</a>.[/codepen_embed]
+<!-- /wp:shortcode --></p>
+
+<!-- wp:heading -->
+<h2>Conclusion</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Web pages are laid out (visually rendered by the browser) by default from the top-down and left-to-right according to the order of the elements and the display properties for each (e.g. block-level vs. inline-level). The dimensions for each element are calculated based upon the box-sizing properties (e.g. content-box or border-box).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li><strong>box-sizing: content-box</strong> = width + padding + border + margin</li><li><strong>box-sizing: border-box</strong>&nbsp;= width + margin</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>If you are ever confused, be sure to use your browser's web developer tool to inspect your element and if not already set (and needed), remember the code for box-sizing: border-box:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:code -->
+<pre class="wp-block-code"><code class="">selector {
+  box-sizing: border-box;
+}
+</code></pre>
+<!-- /wp:code -->
+
+  </div><a class="u-url" href="/box-model/" hidden></a>
+</article>
+
+      </div>
+    </main><footer class="site-footer h-card">
+  <data class="u-url" href="/"></data>
+
+  <div class="wrapper">
+
+    <!-- <h2 class="footer-heading">CMS</h2> -->
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <!-- <ul class="contact-list">
+          <li class="p-name">CMS</li></ul> -->
+      </div>
+
+      <div class="footer-col footer-col-2">
+        <!--<ul class="social-media-list"></ul>
+-->
+      </div>
+
+      <div class="footer-col footer-col-3">
+        <!-- <p>CreativeMedia.space is a learning space of helpful resources and curated lists of creative media related sites that are continually being updated. </p> -->
+      </div>
+    </div>
+
+  </div>
+
+</footer>
+</body>
+
+</html>
